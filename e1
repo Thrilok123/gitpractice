@@ -1,5 +1,6 @@
 {
 "runtimeOptions": {
+    "tfm": "netcoreapp3.1.2.356",
     "tfm": "netcoreapp3.1.2.3",
     "framework": {
       "name": "Microsoft.NETCore.App",
